@@ -1,0 +1,145 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "address": "100 Green St",
+      "sqFootage": 200
+    },
+    {
+      "id": 2,
+      "address": "350 Mulberry St",
+      "sqFootage": 150
+    },
+    {
+      "id": 3,
+      "address": "400 Steekee St",
+      "sqFootage": 300
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Sally Sweet",
+      "email": "Sally@Sweet.com",
+      "isStaff": false
+    },
+    {
+      "id": 2,
+      "fullName": "Billy Basher",
+      "email": "Billy@Basher.com",
+      "isStaff": true
+    },
+    {
+      "id": 3,
+      "fullName": "Darryl Dumpling",
+      "email": "Darryl@Dumpling.com",
+      "isStaff": false
+    },
+    {
+      "id": 4,
+      "fullName": "Fred Farthing",
+      "email": "Fred@Farthing.com",
+      "isStaff": false
+    },
+    {
+      "id": 5,
+      "fullName": "Natalie Neophyte",
+      "email": "Natalie@Neophyte.com",
+      "isStaff": true
+    }
+  ],
+  "productTypes": [
+    {
+      "id": 1,
+      "candyCategory": "Sucky Sweet"
+    },
+    {
+      "id": 2,
+      "candyCategory": "Chocolate"
+    },
+    {
+      "id": 3,
+      "candyCategory": "Sour Surprise"
+    },
+    {
+      "id": 4,
+      "candyCategory": "Gum"
+    },
+    {
+      "id": 5,
+      "candyCategory": "Nutty Nougat"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "productName": "Chocolate Bar",
+      "productPrice": 1.49,
+      "productTypeId": 2
+    },
+    {
+      "id": 2,
+      "productName": "Sweet Sensations",
+      "productPrice": 5.99,
+      "productTypeId": 1
+    },
+    {
+      "id": 3,
+      "productName": "Minty Chewies",
+      "productPrice": 0.99,
+      "productTypeId": 4
+    },
+    {
+      "id": 4,
+      "productName": "Sour Souls",
+      "productPrice": 1.99,
+      "productTypeId": 3
+    },
+    {
+      "id": 5,
+      "productName": "Nutty Nothings",
+      "productPrice": 8.99,
+      "productTypeId": 5
+    },
+    {
+      "id": 6,
+      "productName": "Simply Sympathy Soothing Syrup",
+      "productPrice": 14.99,
+      "productTypeId": 1
+    },
+    {
+      "id": 7,
+      "productName": "Sour Dours",
+      "productPrice": 7.99,
+      "productTypeId": 3
+    },
+    {
+      "userId": 2,
+      "productName": "Chocolatey Chungus",
+      "productPrice": "5.99",
+      "productTypeId": "2",
+      "id": 8
+    },
+    {
+      "userId": 2,
+      "productName": "Lemon Drops",
+      "productPrice": "0.99",
+      "productTypeId": "1",
+      "id": 9
+    },
+    {
+      "userId": 2,
+      "productName": "Test Product",
+      "productPrice": "5",
+      "productTypeId": "3",
+      "id": 10
+    },
+    {
+      "userId": 2,
+      "productName": "Another Test Product",
+      "productPrice": "20.49",
+      "productTypeId": "4",
+      "id": 11
+    }
+  ]
+}
