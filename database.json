@@ -116,30 +116,36 @@
     {
       "userId": 2,
       "productName": "Chocolatey Chungus",
-      "productPrice": "5.99",
-      "productTypeId": "2",
+      "productPrice": 5.99,
+      "productTypeId": 2,
       "id": 8
     },
     {
       "userId": 2,
       "productName": "Lemon Drops",
-      "productPrice": "0.99",
-      "productTypeId": "1",
+      "productPrice": 0.99,
+      "productTypeId": 1,
       "id": 9
     },
     {
       "userId": 2,
       "productName": "Test Product",
-      "productPrice": "5",
-      "productTypeId": "3",
+      "productPrice": 5,
+      "productTypeId": 3,
       "id": 10
     },
     {
       "userId": 2,
       "productName": "Another Test Product",
-      "productPrice": "20.49",
-      "productTypeId": "4",
+      "productPrice": 20.49,
+      "productTypeId": 4,
       "id": 11
+    },
+    {
+      "productName": "Test 3",
+      "productPrice": 6.99,
+      "productTypeId": 3,
+      "id": 14
     }
   ]
 }
