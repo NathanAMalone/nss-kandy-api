@@ -46,20 +46,35 @@
       "fullName": "Natalie Neophyte",
       "email": "Natalie@Neophyte.com",
       "isStaff": true
+    },
+    {
+      "fullName": "Franklin Furrows",
+      "email": "Franklin@Furrows.com",
+      "isStaff": true,
+      "id": 6
     }
   ],
   "employees": [
     {
       "id": 1,
       "startDate": "07/01/2022",
-      "payRate": 10.00,
-      "locationId": 2
+      "payRate": 10,
+      "locationId": 2,
+      "userId": 2
     },
     {
       "id": 2,
       "startDate": "08/01/2022",
-      "payRate": 14.00,
-      "locationId": 3
+      "payRate": 14,
+      "locationId": 3,
+      "userId": 5
+    },
+    {
+      "locationId": 1,
+      "startDate": "2022-09-13",
+      "payRate": 14.5,
+      "userid": 6,
+      "id": 3
     }
   ],
   "customers": [
