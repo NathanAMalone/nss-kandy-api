@@ -80,13 +80,25 @@
   "customers": [
     {
       "id": 1,
-      "loyaltyNumber": 425354,
-      "userId": 1
+      "loyaltyNumber": 26345,
+      "userId": 1,
+      "user": {
+        "id": 1,
+        "fullName": "Sally Sweet",
+        "email": "Sally@Sweet.com",
+        "isStaff": false
+      }
     },
     {
       "id": 2,
-      "loyaltyNumber": 542357,
-      "userId": 3
+      "loyaltyNumber": 543546753586,
+      "userId": 3,
+      "user": {
+        "id": 3,
+        "fullName": "Darryl Dumpling",
+        "email": "Darryl@Dumpling.com",
+        "isStaff": false
+      }
     },
     {
       "id": 3,
