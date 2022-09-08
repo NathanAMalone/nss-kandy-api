@@ -52,53 +52,94 @@
       "email": "Franklin@Furrows.com",
       "isStaff": true,
       "id": 6
+    },
+    {
+      "fullName": "Billy Basher",
+      "email": "Billy@Basher.com",
+      "isStaff": true,
+      "id": 7
+    },
+    {
+      "fullName": "Carol Kline",
+      "email": "Carol@Kline.com",
+      "isStaff": true,
+      "id": 8
+    },
+    {
+      "fullName": "Ima Wary",
+      "email": "Ima@Wary.com",
+      "isStaff": true,
+      "id": 9
+    },
+    {
+      "fullName": "Ima Wary",
+      "email": "Ima@Wary.com",
+      "isStaff": true,
+      "id": 10
+    },
+    {
+      "fullName": "Ima Wary",
+      "email": "Ima@Wary.com",
+      "isStaff": true,
+      "id": 11
+    },
+    {
+      "fullName": "Ima Wary",
+      "email": "Ima@Wary.com",
+      "isStaff": true,
+      "id": 12
+    },
+    {
+      "fullName": "Ima Wary",
+      "email": "Ima@Wary.com",
+      "isStaff": true,
+      "id": 13
+    },
+    {
+      "fullName": "Ima Wary",
+      "email": "Ima@Wary.com",
+      "isStaff": true,
+      "id": 14
+    },
+    {
+      "fullName": "Test Testing",
+      "email": "Test@Testing.com",
+      "isStaff": true,
+      "id": 15
     }
   ],
   "employees": [
     {
-      "id": 1,
-      "startDate": "07/01/2022",
-      "payRate": 10,
-      "locationId": 2,
-      "userId": 2
-    },
-    {
-      "id": 2,
-      "startDate": "08/01/2022",
-      "payRate": 14,
-      "locationId": 3,
-      "userId": 5
-    },
-    {
       "locationId": 1,
-      "startDate": "2022-09-13",
-      "payRate": 14.5,
-      "userId": 6,
+      "startDate": "2022-09-14",
+      "payRate": 20,
+      "userId": 7,
+      "id": 1
+    },
+    {
+      "locationId": 2,
+      "startDate": "2022-09-19",
+      "payRate": 15,
+      "userId": 8,
+      "id": 2
+    },
+    {
+      "locationId": 3,
+      "startDate": "2022-09-23",
+      "payRate": 25,
+      "userId": 14,
       "id": 3
     }
   ],
   "customers": [
     {
-      "id": 1,
-      "loyaltyNumber": 26345,
-      "userId": 1,
-      "user": {
-        "id": 1,
-        "fullName": "Sally Sweet",
-        "email": "Sally@Sweet.com",
-        "isStaff": false
-      }
+      "loyaltyNumber": 453,
+      "id": 1
     },
     {
       "id": 2,
       "loyaltyNumber": 543546753586,
-      "userId": 3,
-      "user": {
-        "id": 3,
-        "fullName": "Darryl Dumpling",
-        "email": "Darryl@Dumpling.com",
-        "isStaff": false
-      }
+      "userId": 3
     },
     {
       "id": 3,
@@ -317,6 +358,36 @@
       "customerId": 3,
       "productId": 2,
       "amountPurchased": 5
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "amountPurchased": 1,
+      "id": 5
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "amountPurchased": 1,
+      "id": 6
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "amountPurchased": 1,
+      "id": 7
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "amountPurchased": 1,
+      "id": 8
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "amountPurchased": 1,
+      "id": 9
     }
   ]
 }
