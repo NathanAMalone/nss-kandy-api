@@ -54,58 +54,22 @@
       "id": 6
     },
     {
-      "fullName": "Billy Basher",
-      "email": "Billy@Basher.com",
+      "fullName": "Carol Kline",
+      "email": "Carol@Kline.com",
       "isStaff": true,
       "id": 7
     },
     {
-      "fullName": "Carol Kline",
-      "email": "Carol@Kline.com",
+      "fullName": "Ima Wary",
+      "email": "Ima@Wary.com",
       "isStaff": true,
       "id": 8
     },
     {
-      "fullName": "Ima Wary",
-      "email": "Ima@Wary.com",
+      "fullName": "Ginger Redd",
+      "email": "Ginger@Redd.com",
       "isStaff": true,
       "id": 9
-    },
-    {
-      "fullName": "Ima Wary",
-      "email": "Ima@Wary.com",
-      "isStaff": true,
-      "id": 10
-    },
-    {
-      "fullName": "Ima Wary",
-      "email": "Ima@Wary.com",
-      "isStaff": true,
-      "id": 11
-    },
-    {
-      "fullName": "Ima Wary",
-      "email": "Ima@Wary.com",
-      "isStaff": true,
-      "id": 12
-    },
-    {
-      "fullName": "Ima Wary",
-      "email": "Ima@Wary.com",
-      "isStaff": true,
-      "id": 13
-    },
-    {
-      "fullName": "Ima Wary",
-      "email": "Ima@Wary.com",
-      "isStaff": true,
-      "id": 14
-    },
-    {
-      "fullName": "Test Testing",
-      "email": "Test@Testing.com",
-      "isStaff": true,
-      "id": 15
     }
   ],
   "employees": [
@@ -113,27 +77,49 @@
       "locationId": 1,
       "startDate": "2022-09-14",
       "payRate": 20,
-      "userId": 7,
+      "userId": 2,
       "id": 1
     },
     {
       "locationId": 2,
       "startDate": "2022-09-19",
       "payRate": 15,
-      "userId": 8,
+      "userId": 7,
       "id": 2
     },
     {
       "locationId": 3,
       "startDate": "2022-09-23",
       "payRate": 25,
-      "userId": 14,
+      "userId": 8,
       "id": 3
+    },
+    {
+      "locationId": 3,
+      "startDate": "2022-09-16",
+      "payRate": 18,
+      "userId": 5,
+      "id": 4
+    },
+    {
+      "locationId": 2,
+      "startDate": "2022-08-25",
+      "payRate": 14,
+      "userId": 6,
+      "id": 5
+    },
+    {
+      "locationId": 1,
+      "startDate": "",
+      "payRate": 30,
+      "userId": 9,
+      "id": 6
     }
   ],
   "customers": [
     {
-      "loyaltyNumber": 453,
+      "loyaltyNumber": 4531234561,
+      "userId": 1,
       "id": 1
     },
     {
@@ -361,33 +347,45 @@
     },
     {
       "customerId": 1,
-      "productId": 1,
+      "productId": 4,
       "amountPurchased": 1,
-      "id": 5
+      "id": 14
     },
     {
-      "customerId": 1,
-      "productId": 1,
+      "customerId": 2,
+      "productId": 7,
       "amountPurchased": 1,
-      "id": 6
+      "id": 15
     },
     {
-      "customerId": 1,
-      "productId": 1,
+      "customerId": 3,
+      "productId": 9,
       "amountPurchased": 1,
-      "id": 7
+      "id": 16
     },
     {
-      "customerId": 1,
-      "productId": 1,
+      "customerId": 3,
+      "productId": 6,
       "amountPurchased": 1,
-      "id": 8
+      "id": 17
     },
     {
-      "customerId": 1,
+      "customerId": 3,
+      "productId": 2,
+      "amountPurchased": 1,
+      "id": 18
+    },
+    {
+      "customerId": 3,
       "productId": 1,
       "amountPurchased": 1,
-      "id": 9
+      "id": 19
+    },
+    {
+      "customerId": 3,
+      "productId": 8,
+      "amountPurchased": 1,
+      "id": 20
     }
   ]
 }
